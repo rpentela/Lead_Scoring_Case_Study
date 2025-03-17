@@ -16,7 +16,7 @@ This Project is a case study of solving business problem of X Education Company 
 	- Problem statement and the analysis approach.
 	- Results in business terms
 	- Visualisations of most important results
-* Lead_Scoring_Summary.pdf
+* Summary_Report.pdf
 	- Learning and Summary of analysis
 
 
