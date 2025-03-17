@@ -11,7 +11,7 @@ This Project is a case study of solving business problem of X Education Company 
 	- Detailed python file containing analysis Leads dataset , logistic regression model ,the conversion predictions and evaluation metrics.
 * Assignment Subjective Questions.pdf
 	- This pdf document filled with solutions to all the problems.
-* Lead_Scoring_Casestudy.pdf
+* Lead_Scoring_Presentation.pdf
 	- Analysis document to the chief data scientist of the company. 
 	- Problem statement and the analysis approach.
 	- Results in business terms
